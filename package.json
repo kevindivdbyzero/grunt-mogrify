@@ -1,0 +1,28 @@
+{
+  "name": "grunt-mogrify",
+  "description": "Replaces, transforms, and occludes source code based on configurable patterns.",
+  "version": "0.0.1",
+  "homepage": "http://github.com/kevindivdbyzero/grunt-mogrify",
+  "author": {
+    "name": "Kevin Nielsen",
+    "url": "http://blog.voidblossom.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kevindivdbyzero/grunt-mogrify.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "files": [
+    "tasks",
+    "LICENSE",
+    "README.md"
+  ],
+  "readmeFilename": "README.md"
+}
